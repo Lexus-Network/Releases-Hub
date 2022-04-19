@@ -12,4 +12,6 @@ Its on the Latest version 1.18.12.2!
 Download PixelBETA [proceed to download](https://github.com/Lexus-Network/Pixel-Beta)
 Pixel Client is Lexus Networks newest Client, for servers like 2b2tpe/2b2e/2b2tmcpe/2b2tbe etc!
 Its very customizable and **CLEAN**!! Its also on the latest version of Minecraft: Bedrock Edition (1.18.12.2)
-This Client is still in the making, but the offical V1.0.0 will be downloadable [here](https://github.com/Lexus-Network/Pixel-Releases)
+This Client is still in the making, but the offical V1.0.0 will be downloadable [here](https://github.com/Lexus-Network/Pixel-Releases) when officially releases
+
+**RETURN TO [WEBSITE](https://www.lexuscommunity.com/home)**
